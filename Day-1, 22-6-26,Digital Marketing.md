@@ -1,4 +1,4 @@
-# Day 1 - INTRODUCTION TO DIGITAL MARKETING 
+# INTRODUCTION TO DIGITAL MARKETING 
 
 ## Introduction to Digital Marketing
 The session began with an introduction to Digital Marketing and its importance in promoting products and services online. 
