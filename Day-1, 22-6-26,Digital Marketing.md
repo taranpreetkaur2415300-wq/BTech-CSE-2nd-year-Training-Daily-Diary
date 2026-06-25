@@ -46,42 +46,42 @@ that potential customers may use while searching for smart watches online.
 
 ## SEO Best Practices and Guidlines
 
-1.Meta Description
+#### 1.Meta Description
 -Character Count: 160-300 characters
 -Minimum: 151 characters
 -Maximum: 300 characters
 
-2.Heading Tags Hierarchy
+#### 2.Heading Tags Hierarchy
  Headings Should follow a priority order to help search engines understand the page structure:
 -High Priority: H1,H2,H3(Crucial for SEO)
 -Low Priority: H4,H5,H6(Least impactful for page ranking)
 
-3.Search Engines Mechanics
+#### 3.Search Engines Mechanics
 -Crawling: The Process where search engine bots read and scan your page content.
 -Indexing: The Process of storing and organizing the content found during crawling to display it in search results.
 
-4.Image Optimization
+#### 4.Image Optimization
 -ALT Tags: always provide descriptive Alt text for images to improve accessibility and help search engines
 "read" the image content.
 
-5.Text-to-HTML Ratio
+#### .Text-to-HTML Ratio
 -Definition: The difference between the visible text on the front and the HTML code in the backend.
 -Ideal Ratio: Aim for 20%-40%
 
-6.Content Length
+#### 6.Content Length
 -Standard Guidelines: According to Google guidelines,a single page should ideally 
  contain at least 500 words of high-quality content. 
 
-7.Favicon
+#### 7.Favicon
 -Description: A small logo image that appears in browser tabs.
 -Importance: It represent your brand and enhance branding strategy by making the site easily recognizable.
 
-8.Keywords Research Tool
+#### 8.Keywords Research Tool
 Recommended tools for finding search volume and relevent terms
 -WordStream Tool
 -Free Keyword Tool
 
-9.Assignment & Key Metrics
+#### 9.Assignment & Key Metrics
 -Task: Conduct a Keyword analysis.
 
 ## Metrices To Track:
