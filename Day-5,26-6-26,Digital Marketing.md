@@ -17,3 +17,23 @@ Dynamic, chronological content usually associated with a blog or news feed.
 Static content for permanent sections of your site, like an "About Us" or "Contact" page.
 ### Dashboard
 The administrative backend where you manage content, install updates, and configure website settings.
+
+## For Post
+### Steps to Create a Post
+
+1. Log in to your WordPress dashboard.
+2. Click Posts → Add New Post.
+3. Enter the Post Title and write your content.
+4. Add images, categories, tags, paragraphs, table and FAQ as you want.
+5. Click Publish, then click Publish again to make the post live.
+
+## Assignment (Perform a Task)
+### Create Page in WordPress
+### Steps 
+
+1. Log in to your WordPress dashboard.
+2. Click Pages → Add New Page.
+3. Enter the Page Title and add your page content.
+4. Add images ,tables and FAQ as you want.
+5. Click Publish, then click Publish again to make the page live.
+
