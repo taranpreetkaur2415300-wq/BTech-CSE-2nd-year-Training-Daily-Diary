@@ -1,4 +1,4 @@
-# How to Optimize a Post after Publishing.
+# How to Optimize a Post after Publishing
 ## Introduction
 Post optimization is the process of improving a published post so that it performs better in search engines and provides a
 better experience for readers. An optimized post can rank higher on search engine result pages (SERPs),attract more visitors,
