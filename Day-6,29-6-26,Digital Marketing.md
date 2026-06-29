@@ -117,6 +117,8 @@ It also describe the page type ,Article type and Canonical URL.
 
 <img width="427" height="246" alt="image" src="https://github.com/user-attachments/assets/ff08d82d-46f2-4e02-8495-368409571f3c" />
 
+<img width="839" height="62" alt="image" src="https://github.com/user-attachments/assets/7d9cb1ec-6edd-477d-a45e-af9b8a5ca80a" />
+
 
 
 
