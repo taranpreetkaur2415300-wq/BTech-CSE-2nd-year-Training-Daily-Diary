@@ -57,6 +57,36 @@ A Sitemap.xml is an XML file that lists all the important pages of a website, he
 
 <img width="932" height="434" alt="image" src="https://github.com/user-attachments/assets/ab9cf80c-9d2f-45b4-8b72-95bae54e5b56" />
 
+# WhatFont
+WhatFont is a browser extension used to identify the font family, font size, font weight, line height, and other typography details of text on a webpage.
+
+<img width="246" height="241" alt="image" src="https://github.com/user-attachments/assets/fa263c45-cbaf-4e1d-8c62-b307893aab85" />
+
+<img width="570" height="287" alt="image" src="https://github.com/user-attachments/assets/a97f0593-9511-4d42-87b7-db0a1473227c" />
+
+# PageSpeed Test
+ PageSpeed test evaluates the time it takes for a web page to fully load and become interactive for users.
+
+## PageSpeed Insights
+Google's free tool that analyzes website performance and provides optimization suggestions.
+
+<img width="765" height="97" alt="image" src="https://github.com/user-attachments/assets/14a6e905-a069-4e09-b507-a0bb2a886c2d" />
+
+### In Mobile
+
+<img width="563" height="217" alt="image" src="https://github.com/user-attachments/assets/7b2dbc8b-efd5-45fb-9968-90b808ad4735" />
+
+### In Desktop
+
+<img width="566" height="213" alt="image" src="https://github.com/user-attachments/assets/1d9e09b6-864c-4e53-b7b3-c2c5b8d1097f" />
+
+## GTmetrix Speed
+A website speed testing tool that measures loading time and performance with detailed reports.
+
+<img width="563" height="157" alt="image" src="https://github.com/user-attachments/assets/b03c6230-2aea-43bf-a843-aef812d37d6f" />
+
+
+<img width="773" height="275" alt="image" src="https://github.com/user-attachments/assets/442e730b-d5d0-46ba-928a-40f4728e6618" />
 
 
 
