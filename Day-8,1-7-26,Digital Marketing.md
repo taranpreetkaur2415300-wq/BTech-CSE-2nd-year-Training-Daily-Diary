@@ -12,3 +12,13 @@ Unlinked references to your brand across blogs, forums, or social media that inc
 Promoting your content on platforms like LinkedIn, Reddit, or Facebook to drive referral traffic and increase discoverability.
 ### Local SEO (Citations & Reviews)
 Building local visibility through online reviews (e.g., Google Business Profile) and directory listings.
+# Off-Page SEO → Link Building → Techniques
+Link Building Techniques are the methods used in Off-Page SEO to get backlinks from other websites. These techniques help improve a website's authority, search engine rankings, and organic traffic.
+## Link Building Techniques
+### Profile Creation
+### Social Book Marketing
+### Business Citation/Local Citation/Business Listing
+### Question/Answer Website like Quora or Reddit
+### Forum Listing
+### Directory Listing
+
