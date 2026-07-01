@@ -1,3 +1,20 @@
+# SEO(Search Engine Optimization)
+SEO stands for Search Engine Optimization. It is the practice of improving a website so that it ranks higher on Search Engine Results Pages (SERPs), such as on Google.
+## Types of SEO
+### White Hat SEO
+White Hat SEO refers to ethical techniques that follow search engine guidelines. It focuses on the human audience and providing true value.
+### Black Hat SEO
+Black Hat SEO involves unethical, manipulative tactics that violate search engine guidelines to achieve quick rankings
+### Grey Hat SEO
+Grey Hat SEOGrey Hat SEO falls in the middle of the spectrum. It is a combination of both White Hat and Black Hat practices.
+
+
+
+
+
+
+
+
 # SEOquake
 A browser extension that provides instant SEO analysis of any webpage, including page information, keyword density, backlinks, and other SEO metrics.
 ### Such that
