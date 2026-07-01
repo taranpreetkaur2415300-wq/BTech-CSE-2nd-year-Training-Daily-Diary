@@ -9,7 +9,8 @@ A browser extension that provides instant SEO analysis of any webpage, including
 <img width="561" height="170" alt="image" src="https://github.com/user-attachments/assets/6d7a1946-769b-423f-a8cf-76ea7af26509" />
 
 
-<img width="545" height="155" alt="image" src="https://github.com/user-attachments/assets/1dd2ebf4-c2f2-4373-bc12-23fcbfaf5771" />
+<img width="544" height="115" alt="image" src="https://github.com/user-attachments/assets/4b269f7e-869a-4a74-bcdd-8d16b06c2a9b" />
+
 
 
 <img width="554" height="394" alt="image" src="https://github.com/user-attachments/assets/2efd7df6-7489-44fa-a3f0-686ab8322267" />
