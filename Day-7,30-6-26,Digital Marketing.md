@@ -89,7 +89,23 @@ A website speed testing tool that measures loading time and performance with det
 
 <img width="773" height="275" alt="image" src="https://github.com/user-attachments/assets/442e730b-d5d0-46ba-928a-40f4728e6618" />
 
+# Assignment
+## Theme
+A Theme is the overall design and layout of a website. It controls how your website looks without changing the content.
 
+<img width="422" height="188" alt="image" src="https://github.com/user-attachments/assets/96f20ae8-9fb3-4720-9c2f-7090f4ada62d" />
+
+
+## Design
+Design means arranging all the elements of a website to make it attractive and easy to use.
+
+<img width="505" height="390" alt="image" src="https://github.com/user-attachments/assets/d52dcc81-9a78-40ba-89b9-e420cb7fb0c4" />
+
+
+## Fonts
+Fonts are the different styles of text used on a website.
+
+<img width="285" height="210" alt="image" src="https://github.com/user-attachments/assets/9f66da56-b305-4abc-b4a3-fa75a88078af" />
 
 
 
