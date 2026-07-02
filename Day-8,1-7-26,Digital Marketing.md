@@ -14,6 +14,10 @@ Promoting your content on platforms like LinkedIn, Reddit, or Facebook to drive 
 Building local visibility through online reviews (e.g., Google Business Profile) and directory listings.
 # Off-Page SEO → Link Building → Techniques
 Link Building Techniques are the methods used in Off-Page SEO to get backlinks from other websites. These techniques help improve a website's authority, search engine rankings, and organic traffic.
+
+# Assigned a Website for Project Report
+# https://anaramedspa.com
+
 ## Link Building Techniques
 ### Profile Creation
 ### Social Book Marketing
@@ -21,4 +25,56 @@ Link Building Techniques are the methods used in Off-Page SEO to get backlinks f
 ### Question/Answer Website like Quora or Reddit
 ### Forum Listing
 ### Directory Listing
+
+## Profile Creation 
+It is the process of creating an account on high-authority websites and filling in details such as your name, business name, website URL, email, description, and social media links to improve SEO and build backlinks.
+
+## Steps of Profile Creation
+### 1.Sign up on a trusted website.
+https://www.mediafire.com
+<img width="170" height="41" alt="image" src="https://github.com/user-attachments/assets/6a773dbc-864d-4f52-8497-bb8621bd8ec3" />
+
+### 2.Complete your profile with accurate information.
+<img width="538" height="328" alt="image" src="https://github.com/user-attachments/assets/20271b36-6927-4142-a66a-9e62ba3460f5" />
+
+
+### 3.Add your website URL.
+https://anaramedspa.com
+
+### 4.Upload a profile picture or logo (optional).
+<img width="484" height="244" alt="image" src="https://github.com/user-attachments/assets/eb59a75e-704f-4704-95a3-1566c4245c65" />
+
+
+### 5. Save and verify your profile if required.
+<img width="180" height="365" alt="image" src="https://github.com/user-attachments/assets/e6302d59-4f68-4f64-819b-c12608ba4d49" />
+
+## DA,PA Checker Of Website
+A DA, PA Checker is an SEO tool that measures the authority and strength of a website (DA) and an individual webpage (PA), helping SEO professionals evaluate website quality and backlink potential.
+
+### Such that 
+https://mediafire.com
+
+<img width="524" height="267" alt="image" src="https://github.com/user-attachments/assets/568c37ad-26d3-4396-b449-babeb4f9b4f5" />
+
+<img width="568" height="68" alt="image" src="https://github.com/user-attachments/assets/202b3e4e-99a6-4609-adb8-207a333e4213" />
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
