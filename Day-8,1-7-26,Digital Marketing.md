@@ -31,7 +31,14 @@ It is the process of creating an account on high-authority websites and filling 
 
 ## Steps of Profile Creation
 ### 1.Sign up on a trusted website.
+
+<img width="579" height="134" alt="image" src="https://github.com/user-attachments/assets/8322f502-ba2a-44a2-971b-ddfc7388a319" />
+
+<img width="384" height="209" alt="image" src="https://github.com/user-attachments/assets/70da8f30-47cd-4969-a15a-2e2197909702" />
+
+
 https://www.mediafire.com
+
 <img width="170" height="41" alt="image" src="https://github.com/user-attachments/assets/6a773dbc-864d-4f52-8497-bb8621bd8ec3" />
 
 ### 2.Complete your profile with accurate information.
@@ -57,6 +64,11 @@ https://mediafire.com
 <img width="524" height="267" alt="image" src="https://github.com/user-attachments/assets/568c37ad-26d3-4396-b449-babeb4f9b4f5" />
 
 <img width="568" height="68" alt="image" src="https://github.com/user-attachments/assets/202b3e4e-99a6-4609-adb8-207a333e4213" />
+
+# Assignment 
+## Create profiles on other websites as well, and check their Domain Authority (DA), Page Authority (PA), Spam Score (SS), and Domain Rating (DR).
+
+<img width="613" height="112" alt="image" src="https://github.com/user-attachments/assets/99fc2871-f7de-460d-a33c-1cd9cefea908" />
 
 
  
