@@ -26,7 +26,7 @@ Link Building Techniques are the methods used in Off-Page SEO to get backlinks f
 ### Forum Listing
 ### Directory Listing
 
-## Profile Creation 
+# Profile Creation 
 It is the process of creating an account on high-authority websites and filling in details such as your name, business name, website URL, email, description, and social media links to improve SEO and build backlinks.
 
 ## Steps of Profile Creation
