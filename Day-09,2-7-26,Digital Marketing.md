@@ -30,7 +30,7 @@ Directory submission is an off-page SEO technique where a business website is su
 ## Steps
 
 ### 1. Visit the directory submission website and click Add Business, Submit Listing, or Register.
-    https://24directory.com.ar
+[https://24Directory.com.ar](https://24directory.com.ar/)
 
 ### 2. Fill in the business details, such as business name, website URL, category, address, phone number, email, and description.
 <img width="490" height="334" alt="image" src="https://github.com/user-attachments/assets/2fab2eb4-901d-460c-bc2b-6f30c57592a4" />
