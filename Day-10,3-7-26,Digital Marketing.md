@@ -15,7 +15,7 @@ Introduces the business to a larger audience.
 Verified business listings make the business appear more reliable.
 
 ## Implementation Steps
-### 1.Visit the business listing website and click Add Business, Submit Listing, or Sign Up.
+### 1.Visit the business listing website and click Add Business, Submit Listing, or Sign Up. 
 https://www.earnohub.com
 <img width="160" height="202" alt="image" src="https://github.com/user-attachments/assets/39bb2146-3d61-4bca-88b5-5eef0a06c054" />
 
