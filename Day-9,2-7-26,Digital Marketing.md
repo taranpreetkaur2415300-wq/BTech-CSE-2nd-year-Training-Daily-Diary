@@ -39,8 +39,8 @@ Directory submission is an off-page SEO technique where a business website is su
 ### 3.Wait for admin approval. The directory team reviews the listing, and once approved.
 <img width="593" height="398" alt="image" src="https://github.com/user-attachments/assets/f2afad80-91ad-459e-a1fd-742ba4299adf" />
 
-## Assignment
-### Perform Directory Submission Sites for Other Websites
+# Assignment
+## Perform Directory Submission Sites for Other Websites
 <img width="749" height="86" alt="image" src="https://github.com/user-attachments/assets/5bff3f2a-c291-4869-8315-31e28d7dc737" />
 
 
