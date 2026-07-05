@@ -1,6 +1,7 @@
 # Business Listing Sites
 Business listing sites are online directories where businesses can create profiles by adding their business name, website, contact details, address, services, and other information. These listings help improve online visibility, increase local SEO, build quality backlinks, and make it easier for customers to find the business through search engines.
-
+### Business listing is also known as NAP Listing.
+#### Name, Address, Phone number
 ## Benefits of Business Listing Sites
 ### 1.Improves Online Visibility 
 Makes the business easier to find on search engines and online directories.
