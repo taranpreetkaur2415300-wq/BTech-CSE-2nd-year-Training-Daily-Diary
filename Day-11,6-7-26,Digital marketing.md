@@ -67,7 +67,7 @@ Question & Answer (Q&A) websites are online platforms where users can ask questi
 
 4. Engage with the community by replying to comments and answering more related questions regularly.
 
-# Local Seo
+# Local SEO
 Local SEO (Local Search Engine Optimization) is the process of optimizing a business's online presence to improve its visibility in local search results. It helps businesses attract nearby customers searching for products or services in a specific geographic area.
 
 ### Example
@@ -76,7 +76,7 @@ A medical spa in New York optimizing its website and business profile to appear 
 
 <img width="566" height="270" alt="image" src="https://github.com/user-attachments/assets/04a3ced0-9228-4096-9a4d-0f5cc3d82547" />
 
-# Gooogle My Business 
+# Google My Business 
 Google My Business (GMB), now called Google Business Profile (GBP), is a free tool provided by Google that allows businesses to manage their online presence on Google Search and Google Maps. It helps customers find important business information such as the business name, address, phone number, website, business hours, reviews, and directions.
 ### Implementation Steps
 
