@@ -28,6 +28,22 @@ A secondary keyword is a related keyword or phrase that supports the primary key
 Artificial Intelligence Optimization (AIO) is the process of optimizing website content so that AI-powered search engines and AI assistants can understand, select, and recommend it in AI-generated responses.
 ### AIO stands for Artificial Intelligence Optimization.
 
+## E-Commerce
+E-commerce (Electronic Commerce) is the buying and selling of products or services over the internet using websites, mobile apps, or online marketplaces.
+#### Amazon,Flipkart
+
+## Service 
+
+A service is an activity or work performed by a business or professional to help meet a customer's needs. Unlike a product, a service is intangible and cannot be physically owned.
+
+#### Example Botox treatment, hair Botox treatment, skin consultation.
+## Category 
+
+A category is a group or classification used to organize businesses, products, or services based on their type or purpose.
+
+#### Example Medical Spa, Beauty Clinic, Cosmetic Clinic, Dermatology Clinic.
+
+
 
 
 
