@@ -182,4 +182,18 @@ Add 1 Internal Link with a relevant keyword.
 # Assignment(Perform a task)
 ### Now, using all of this information, create a non-promotional SEO blog that follows all the requirements mentioned above, including the correct word count, keyword usage, heading structure (H1, H2, H3), internal linking, external linking, SEO optimization, and a natural, human-friendly writing style.
 
-https://docs.google.com/document/d/1sudzA44CJI7NBD6J1TCZ1hwBuOdAxZaxM8qMEYAE1VM/edit?usp=sharing
+<img width="346" height="329" alt="image" src="https://github.com/user-attachments/assets/7ce195dc-17eb-45f4-b742-ea2ef309a010" />
+
+<img width="341" height="121" alt="image" src="https://github.com/user-attachments/assets/c36253e5-67f0-435a-bcbb-6146a5682348" />
+
+<img width="349" height="267" alt="image" src="https://github.com/user-attachments/assets/569ce038-0795-4503-978c-189d63f730ca" />
+
+<img width="359" height="154" alt="image" src="https://github.com/user-attachments/assets/f2f20421-7a5c-4001-8444-2f7406b2feed" />
+
+<img width="361" height="320" alt="image" src="https://github.com/user-attachments/assets/b0e1fa76-7a15-4b39-88ef-8628db86a247" />
+
+<img width="356" height="139" alt="image" src="https://github.com/user-attachments/assets/fde2883d-12bf-42ab-aece-1b1f516d8fa5" />
+
+<img width="346" height="59" alt="image" src="https://github.com/user-attachments/assets/386e1296-b7f6-4cc9-a59f-4b911f1cda3b" />
+
+### Also the answer to this information has been uploaded in the PDF with active internal and external links in the next file.
