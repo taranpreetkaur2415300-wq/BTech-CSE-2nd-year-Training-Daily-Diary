@@ -181,3 +181,5 @@ Add 1 Internal Link with a relevant keyword.
 
 # Assignment(Perform a task)
 ### Now, using all of this information, create a non-promotional SEO blog that follows all the requirements mentioned above, including the correct word count, keyword usage, heading structure (H1, H2, H3), internal linking, external linking, SEO optimization, and a natural, human-friendly writing style.
+
+https://docs.google.com/document/d/1sudzA44CJI7NBD6J1TCZ1hwBuOdAxZaxM8qMEYAE1VM/edit?usp=sharing
