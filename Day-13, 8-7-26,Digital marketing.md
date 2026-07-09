@@ -54,6 +54,36 @@ Add Secondary AI prompts in the article ( Headings)
 
 <img width="364" height="254" alt="image" src="https://github.com/user-attachments/assets/8d7bdf88-e94b-4da6-9585-578f6d1665bd" />
 
+### Also the answer to this information has been uploaded in docs file with active internal and external links in this file.
+
+https://docs.google.com/document/d/1FjVdeitt5eHebCN-FnKL6WI6ihNscguC4e_9IcY83MI/edit?usp=sharing
+
+# Assignment(Perform a Task)
+### Post the non-promotional blog and article on article submission sites, and also maintain the live links records in the Google Sheet.
+#### For Blog
+1. Visit the https://write.as/ website.
+
+<img width="536" height="265" alt="image" src="https://github.com/user-attachments/assets/2642e312-a230-4926-bb1f-42e34a6bb805" />
+
+2.Then paste the Blog on that link and generate the Live Link.
+
+https://write.as/y2mexvaax1xkx.md
+
+#### For Article
+1. Visit the https://justpaste.it/ website.
+
+<img width="716" height="122" alt="image" src="https://github.com/user-attachments/assets/ff2eb6dc-dbc2-4e9a-a3a7-eb9927b981a5" />
+
+2. Then paste the Article on that link and generate the Live Link.
+
+https://justpaste.it/f8d2b
+
+### Live Links Record in Google Sheet for Blog and Article.
+
+<img width="559" height="121" alt="image" src="https://github.com/user-attachments/assets/5ce25097-72cc-40c7-b0ad-b3382ef5c082" />
+
+
+
 
 
 
