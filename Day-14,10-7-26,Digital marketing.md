@@ -32,23 +32,30 @@ Save designs online and access them from any device.
 1. Open Canva and choose any article or blog template.
 <img width="891" height="350" alt="image" src="https://github.com/user-attachments/assets/b0bd661d-dd3f-4263-be7e-3a8ac168e7b0" />
 
-3. Paste and format your blog content.
+2. Paste and format your blog content.
+
+   <img width="281" height="202" alt="image" src="https://github.com/user-attachments/assets/b4e60c09-a172-4add-a09d-43286c6d75e9" />
+
   
-4. Add relevant copyright-free images according to your blog.
+3. Add relevant copyright-free images according to your blog.
+   Keep Customize Size
+   #### Width 1600
+   #### Height 936
+   #### Units px
 
 <img width="640" height="640" alt="Botox 2nd pic" src="https://github.com/user-attachments/assets/3c55ae77-666d-47a5-99be-afe559785f33" />
 
 <img width="597" height="512" alt="images (1)" src="https://github.com/user-attachments/assets/160883bf-4560-4430-96fd-883eb1833917" />
 
-5. Insert the official website logo.
+4. Insert the official website logo.
 
 <img width="186" height="54" alt="Anara_logo-1" src="https://github.com/user-attachments/assets/010bdec6-f8d9-4b73-82d6-6ac1b139a7b9" />
 
-6. Use the same color palette as the official website using Add picker chrome extension.
+5. Use the same color palette as the official website using Add picker chrome extension.
 
 <img width="224" height="225" alt="image" src="https://github.com/user-attachments/assets/93dfdad6-843f-45f5-ab4d-04e95062551b" />
 
-7. Then Download and submit the final design.
+6. Then Download and submit the final design.
 
 <img width="302" height="415" alt="image" src="https://github.com/user-attachments/assets/2c876308-73ec-486c-aedb-f81100e7a136" />
 
