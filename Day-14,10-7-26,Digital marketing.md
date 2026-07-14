@@ -62,3 +62,23 @@ Save designs online and access them from any device.
 Also shared in Google Docs
 
 https://docs.google.com/document/d/1ukenFIDwL46n7C5S3ZOB5HRAYlyH4s9KhRH3tXLbqNs/edit?usp=sharing
+
+## UGC Content
+UGC (User-Generated Content) is any form of content—like videos, reviews, photos, or audio—created by unpaid consumers or independent creators rather than by a brand itself. Because it looks authentic and conversational, brands use UGC (like unboxing videos or video testimonials) on social media to build trust and drive sales.
+
+## ElevenLabs
+Elevenlabs is a leading AI software company that specializes in generative audio, providing text-to-speech, voice cloning, and AI voice agents. Creators and marketers use ElevenLabs to instantly generate highly realistic voiceovers, dub content into multiple languages, and even generate sound effects for their projects.
+
+## How They Work Together
+ElevenLabs is heavily used within the UGC and advertising space. Instead of hiring actors or spending hours recording, marketers and creators use an AI workflow to streamline production.
+### 1.AI Voiceovers & Audio
+Creators use ElevenLabs' Text-to-Speech or Voice Cloning tools to generate natural-sounding voiceovers or podcast-style audio. These voices can even express specific emotions, like laughing or whispering.
+
+### 2.AI Avatars & Video
+The generated audio can be combined with AI video generators (like Sora or Veo) and AI Avatars (like HeyGen or Arcads) to create realistic "human" creators.
+
+### 3.Studio Editing
+The ElevenLabs Studio allows users to seamlessly assemble and layer all generated audio, voiceovers, music, and sound effects to finalize the video.
+
+
+
