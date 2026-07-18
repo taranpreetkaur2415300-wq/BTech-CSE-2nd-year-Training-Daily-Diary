@@ -2,6 +2,25 @@
 It is a Google’s default analytics platform, using an event-based model to track user behavior across websites and apps. It shifts focus away from traditional sessions and pageviews to interactions like clicks, scrolls, and video engagements.
 # Google Search Console
 Google Search Console is a free tool provided by Google that helps website owners, developers, and digital marketers monitor, maintain, and troubleshoot their site’s performance in Google search results. It reveals exactly how Google "sees" your website and tracks how much organic search traffic you receive.
+
+## There are the four key performance metrics in Google Search Console
+### 1.Clicks
+
+The number of times users clicked your website link from Google Search results.
+
+### 2.Impression
+The number of times your website appeared in Google Search results, whether users clicked it or not.
+
+### 3.CTR (Click-Through Rate)
+The percentage of impressions that resulted in a click.
+### Formula
+
+<img width="245" height="55" alt="image" src="https://github.com/user-attachments/assets/538cb003-b109-4034-81e2-47675784ad7a" />
+
+### 4.Average Position
+
+The average ranking position of your website in Google Search results for all the queries where it appeared.
+
 ## Implementation steps to connect a website to Google Search Console
 
 <img width="341" height="258" alt="image" src="https://github.com/user-attachments/assets/7fdef4a8-b94e-466a-84a2-44f001540db5" />
@@ -94,7 +113,22 @@ Google Search Console is a free tool provided by Google that helps website owner
 
 <img width="368" height="254" alt="image" src="https://github.com/user-attachments/assets/4f4bdec1-d752-4fcb-baf5-68de0708bb2b" />
 
-
+### Question-Why is my website getting less traffic on mobile devices than on desktop?
+### Answer-Website is not mobile-friendly
+#### Text is too small.
+#### Buttons are difficult to tap.
+#### Content doesn't fit the screen.
+### Check using Google's Mobile-Friendly features in Google Search Console.
+#### Slow loading speed
+#### Large images.
+#### Too many scripts.
+#### Poor hosting.
+### Mobile users often leave if a page takes more than a few seconds to load.
+#### Mobile SEO issues
+#### Missing viewport meta tag.
+#### Blocked CSS/JavaScript.
+#### Content hidden on mobile.
+#### Broken internal links.
 
 
 
