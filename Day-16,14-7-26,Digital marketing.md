@@ -72,15 +72,43 @@ A popup is a small window or dialog box that appears over the main content of a 
 #### 4.Discount or promotional offer popup
 #### 5.Exit-intent popup (appears when a user is about to leave the website)
 
+## AnswerThePublic-Website
+
+AnswerThePublic is a keyword research and content idea generation website. It collects autocomplete suggestions from search engines and displays the questions, phrases, and comparisons that people commonly search for around a specific topic.
+
+### It is mainly used for
+
+#### 1.Finding keyword ideas for SEO.
+#### 2.Discovering common questions users ask online.
+
+<img width="556" height="244" alt="image" src="https://github.com/user-attachments/assets/3ca73f77-db69-4ead-a474-ef56cfdb8e8a" />
+
+<img width="540" height="449" alt="image" src="https://github.com/user-attachments/assets/bd04e370-7777-4ec8-9548-4884c5c71952" />
+
+## Write AI Prompts of Your Respective Project
+#### Project-Anaramedspa
+#### Keyword-Botox
+
+<img width="401" height="188" alt="image" src="https://github.com/user-attachments/assets/c650aa0c-bb2b-43f7-b97b-764cbb894ce6" />
+
+## I-Information (Informational Intent)
+The user is searching to learn about a topic or find answers to questions. They are looking for information, not planning to buy immediately.
 
 
+## C-Commercial (Commercial Investigation Intent)
+The user is researching products or services before making a purchase. They compare options, read reviews, and look for the best choice.
 
+## N-Navigation (Navigational Intent)
+The user wants to reach a specific website, brand, or webpage and uses a search engine to find it quickly.
 
+## Assignment(Perform a Task)
+### Create a page on WordPress for informational intent.
 
+<img width="356" height="359" alt="image" src="https://github.com/user-attachments/assets/ee5edbe6-b6c5-4e80-b327-694adc631110" />
 
+<img width="373" height="295" alt="image" src="https://github.com/user-attachments/assets/23bb7479-9454-4e6a-aeda-aea7455eb114" />
 
-
-
+<img width="383" height="371" alt="image" src="https://github.com/user-attachments/assets/ab2919b8-c5fd-42ab-811b-80b34af243f7" />
 
 
 
