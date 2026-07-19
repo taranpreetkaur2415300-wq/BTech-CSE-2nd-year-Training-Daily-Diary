@@ -88,6 +88,9 @@ AnswerThePublic is a keyword research and content idea generation website. It co
 ## Write AI Prompts of Your Respective Project
 #### Project-Anaramedspa
 #### Keyword-Botox
+##### For Example 
+<img width="543" height="251" alt="image" src="https://github.com/user-attachments/assets/81ced9de-231d-4e3a-b586-5c405b989bfe" />
+
 
 <img width="401" height="188" alt="image" src="https://github.com/user-attachments/assets/c650aa0c-bb2b-43f7-b97b-764cbb894ce6" />
 
