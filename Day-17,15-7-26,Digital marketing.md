@@ -49,7 +49,7 @@ Infographic submission sites are online platforms where users can upload and sha
 <img width="213" height="321" alt="image" src="https://github.com/user-attachments/assets/1d1664fa-a2da-449d-8cf2-86d58d5e7bab" />
 
 ## Assignment(Perform a Task)
-### Also try work on more infographic submission websites.
+### Also Try & work on more infographic submission websites.
 
 <img width="478" height="84" alt="image" src="https://github.com/user-attachments/assets/56c1a528-dee8-4691-b145-2430d21ce2c2" />
 
