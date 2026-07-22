@@ -5,7 +5,6 @@ The Professional Dashboard is a feature on Instagram designed for creators and b
 
 <img width="422" height="330" alt="image" src="https://github.com/user-attachments/assets/81fde5b2-ce44-4eb2-b6b7-3a5586a45c48" />
 
-<img width="603" height="386" alt="image" src="https://github.com/user-attachments/assets/685c9032-dfca-405f-96a1-9249799c7201" />
 
 ## Features of the Professional Dashboard
 ### View account insights and analytics.
@@ -15,6 +14,8 @@ The Professional Dashboard is a feature on Instagram designed for creators and b
 ### Manage branded content and promotions.
 ### Discover tips and resources to improve content.
 ### Use professional tools to grow your audience.
+
+<img width="603" height="386" alt="image" src="https://github.com/user-attachments/assets/685c9032-dfca-405f-96a1-9249799c7201" />
 
 
 ## Benefits of the Professional Dashboard
