@@ -1,5 +1,5 @@
 # Meta Business Suite
-Meta Business Suite is a free tool by Meta that allows businesses to manage their Facebook Page and Instagram account from one place. You can create and schedule posts, reply to messages and comments, view insights, and manage both platforms together.
+Meta Business Suite is a free tool by Meta that allows businesses to manage their Facebook Page and Instagram account from one place. You can create and schedule posts, reply to messages and comments, view insights, and manage both platforms together. 
 
 ## Steps to Create a Post in Meta Business Suite
 
